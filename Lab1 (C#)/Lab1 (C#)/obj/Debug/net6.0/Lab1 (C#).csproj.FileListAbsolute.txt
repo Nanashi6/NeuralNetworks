@@ -1,0 +1,14 @@
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\bin\Debug\net6.0\Lab1 (C#).exe
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\bin\Debug\net6.0\Lab1 (C#).deps.json
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\bin\Debug\net6.0\Lab1 (C#).runtimeconfig.json
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\bin\Debug\net6.0\Lab1 (C#).dll
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\bin\Debug\net6.0\Lab1 (C#).pdb
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\obj\Debug\net6.0\Lab1 (C#).GeneratedMSBuildEditorConfig.editorconfig
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\obj\Debug\net6.0\Lab1 (C#).AssemblyInfoInputs.cache
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\obj\Debug\net6.0\Lab1 (C#).AssemblyInfo.cs
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\obj\Debug\net6.0\Lab1 (C#).csproj.CoreCompileInputs.cache
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\obj\Debug\net6.0\Lab1 (C#).dll
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\obj\Debug\net6.0\refint\Lab1 (C#).dll
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\obj\Debug\net6.0\Lab1 (C#).pdb
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\obj\Debug\net6.0\Lab1 (C#).genruntimeconfig.cache
+D:\3 Курс\ВвНС\Lab1 (C#)\Lab1 (C#)\obj\Debug\net6.0\ref\Lab1 (C#).dll
